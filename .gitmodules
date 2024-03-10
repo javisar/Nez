@@ -1,0 +1,3 @@
+[submodule "modules/MonoGame"]
+	path = modules/MonoGame
+	url = https://github.com/javisar/MonoGame.git
