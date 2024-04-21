@@ -38,7 +38,7 @@
 	</ItemGroup>
 	
 	<ItemGroup>
-	  <ProjectReference Include="..\modules\MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
+	  <ProjectReference Include="..\..\MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
 	</ItemGroup>
 
 	<Import Sdk="Microsoft.NET.Sdk" Project="Sdk.targets" />
